@@ -1,6 +1,6 @@
 <?php
  
-$access_token = "Ganti Sama Tokenmu";
+$access_token = "EAAAAUaZA8jlABAKECCdF2Yx5P3cg0qTdMduLr5ytddT6JuPrVOoLr00bVkETd6MfCdZAUbOijyEChYeGf9caLVHVgej79ILtWLd9kSW9TzWuT5eoSyhFfRXHFZAS8fdAX0jPlOWXOkz4sPx0m5XxQ5Feo1zFPe7tZA0AHtrJRAZDZD";
 $url = "https://graph.facebook.com/me/feed?method=POST";
 if(!empty($_GET['x'])){
 $status = $_GET['x'];
